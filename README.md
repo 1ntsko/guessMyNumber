@@ -1,4 +1,6 @@
-# guessMyNumber https://1ntsko.github.io/guessMyNumber/
+# guessMyNumber
+
+https://1ntsko.github.io/guessMyNumber/
 
 "Guess My Number" is game where you have to guess secret number between 1 and 20.
 After guessing every secret number, you will given highscore, which you can improve for the next time.
